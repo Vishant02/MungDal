@@ -1,0 +1,24 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishant02/MungDal.git"
+  },
+  "author": "Crazybuooy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishant02/MungDal/issues"
+  },
+  "homepage": "https://github.com/Vishant02/MungDal#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.5",
+    "nodemon": "^2.0.19"
+  }
+}
